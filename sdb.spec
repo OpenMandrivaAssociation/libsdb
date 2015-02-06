@@ -5,7 +5,7 @@
 Summary:	Simple database library
 Name:		sdb
 Version:	0.10.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		System/Libraries
 URL:		http://siag.nu/libsdb/
