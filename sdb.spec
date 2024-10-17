@@ -8,7 +8,7 @@ Version:	0.10.1
 Release:	2
 License:	GPL
 Group:		System/Libraries
-URL:		http://siag.nu/libsdb/
+URL:		https://siag.nu/libsdb/
 Source0:	http://siag.nu/pub/libsdb/%{name}-%{version}.tar.gz
 Patch0:		sdb-0.6.0-no_ms.diff
 Patch1:		sdb-0.6.0-postgres.diff
